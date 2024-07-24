@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+build/
+
+# Ignore Vite preview output
+preview/
+
+# Ignore ESLint cache
+.eslintcache
+
+# Ignore VSCode settings
+.vscode/

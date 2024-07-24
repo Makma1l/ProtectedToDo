@@ -1,0 +1,31 @@
+.dashboard button {
+  border: 1px solid #999999;
+  background-color: transparent;
+  margin-left: 10px;
+  color: black;
+}
+
+.sectionContainer {
+  border: 1px solid #999999;
+  border-radius: 50px;
+  padding: 20px;
+}
+
+.sectionContainer2 {
+  display: inline-block;
+  border: 1px solid #999999;
+  border-radius: 50px;
+  padding: 20px;
+  width: 375px;
+  margin-top: 50px;
+}
+
+.sectionContainer3 {
+  display: inline-block;
+  border: 1px solid #999999;
+  border-radius: 50px;
+  padding: 20px;
+  width: 380px;
+  margin-top: 50px;
+  margin-left: 50px;
+}/*# sourceMappingURL=About.module.css.map */
